@@ -1,0 +1,20 @@
+.bg-menu-mobile {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    background-color: #4E62F7;
+    background-color: #0f00fe;
+    will-change: transform;
+  }
+
+  
+  .main-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+
+
